@@ -1,0 +1,1 @@
+Odin project to test HTML lessons. Create a website with recipes.
